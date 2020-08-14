@@ -2,7 +2,7 @@
 How to Use?
 Drag and Drop your image on this python file
 
-😇Requirement:
+Requirement:
 
 🔸Python3
 
@@ -11,7 +11,7 @@ Drag and Drop your image on this python file
 🔸A computer can run Python3
 
 
-💥Usage Scenario
+Usage Scenario
 
 🔹Adobe RGB to sRGB (from mirrorless cameras)
 

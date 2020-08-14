@@ -1,7 +1,7 @@
 # icc_profileToProfile
 How to Use🤔?
 
-Drag and Drop your image on this python file (to Change color Space)
+Drag and Drop your image on this python file 
 
 Requirement:
 
@@ -14,7 +14,11 @@ Requirement:
 
 Usage Scenario:
 
-🔹Adobe RGB  to sRGB (from mirrorless cameras) 
+🖌To Change image Color Space
+
+Example:
+
+🔹Adobe RGB to sRGB (from mirrorless cameras) 
 
 🔹DisplayP3 to sRGB (from IOS devices)
 

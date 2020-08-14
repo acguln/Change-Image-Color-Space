@@ -12,7 +12,7 @@ Requirement:
 🔸A computer can run Python3
 
 
-Usage Scenario
+Usage Scenario:
 
 🔹Adobe RGB to sRGB (from mirrorless cameras)
 

@@ -7,7 +7,7 @@ Requirement:
 
 🔸Python3
 
-🔸Pillow
+🔸Pillow https://github.com/python-pillow/Pillow
 
 🔸ICC file
 

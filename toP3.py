@@ -14,9 +14,9 @@ if os.path.exists(files):
     #img_path = "c.png"
     oldImg = Image.open(sys.argv[1])
 
-    new_img = profileToProfile(oldImg, Acer_X27_PROFILE,  DisplayP3_PROFILE)# path before after
-    new_img_path = "DisplayP3_"+filename
-    new_img.save(new_img_path)
+    newImg = profileToProfile(oldImg, Acer_X27_PROFILE,  DisplayP3_PROFILE)# path before after
+    newImg_path = "DisplayP3_"+filename
+    newImg.save(newImg_path)
 
     print(filename+" change successfully!")
     time.sleep( 2 )

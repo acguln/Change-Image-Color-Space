@@ -1,4 +1,4 @@
-# Change image Color Space
+# Change Image Color Space
 How to Use🤔?
 
 Drag and Drop your image on this python file 
@@ -8,6 +8,8 @@ Requirement:
 🔸Python3
 
 🔸Pillow
+
+🔸ICC file
 
 🔸A computer can run Python3
 

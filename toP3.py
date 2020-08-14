@@ -11,7 +11,6 @@ if os.path.exists(files):
     Acer_X27_PROFILE = "icc/Acer_X27.icm"
     SRGB_PROFILE = "icc/sRGB.icm"
 
-    #img_path = "c.png"
     oldImg = Image.open(sys.argv[1])
 
     newImg = profileToProfile(oldImg, Acer_X27_PROFILE,  DisplayP3_PROFILE)# path before after
